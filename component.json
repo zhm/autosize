@@ -6,7 +6,7 @@
   },
   "main": "index.js",
   "scripts": [
-    "index.js"
+    "index.js",
     "jquery.autosize.js"
   ]
 }
