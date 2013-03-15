@@ -5,8 +5,6 @@
 	license: http://www.opensource.org/licenses/mit-license.php
 */
 
-$ = require('jquery')
-
 
 
 (function ($) {
@@ -184,4 +182,4 @@ $ = require('jquery')
 			adjust();
 		});
 	};
-}($ || window.Zepto));
+}(require('jquery') || window.Zepto));
