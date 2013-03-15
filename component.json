@@ -3,6 +3,6 @@
 	"version": "1.16.6",
 	"main": "./jquery.autosize.js",
 	"dependencies": {
-		"jquery": ">=1.7"
+		"component/jquery": "*"
 	}
 }
