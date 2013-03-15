@@ -1,1 +1,1 @@
-module.exports = require('./jquery-autosize.js');
+module.exports = require('./jquery-autosize');
