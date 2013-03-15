@@ -4,7 +4,9 @@
   "dependencies": {
     "component/jquery": "*"
   },
+  "main": "index.js",
   "scripts": [
+    "index.js"
     "jquery.autosize.js"
   ]
 }
