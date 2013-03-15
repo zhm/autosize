@@ -5,6 +5,6 @@
     "component/jquery": "*"
   },
   "scripts": [
-    'jquery.autosize.js'
+    "jquery.autosize.js"
   ]
 }
