@@ -1,8 +1,10 @@
 {
-	"name": "jquery-autosize",
-	"version": "1.16.6",
-	"main": "./jquery.autosize.js",
-	"dependencies": {
-		"component/jquery": "*"
-	}
+  "name": "jquery-autosize",
+  "version": "1.16.6",
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "scripts": [
+    'jquery.autosize.js'
+  ]
 }
